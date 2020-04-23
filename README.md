@@ -1,2 +1,3 @@
 # quake-singleplayer-level-design
-Custom quake level made with trenchbroom.
+
+Please read the wiki[https://github.com/ThreeEyedVenelope/quake-level-design/wiki] for more information about this project!
