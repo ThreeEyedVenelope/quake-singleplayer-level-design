@@ -3,15 +3,15 @@ running with 12 threads
 testlevel = 4
 LoadBSPFile: 'SinglePlayer01.bsp'
 BSP is version 29
-    14 leafs
-    22 portals
+    26 leafs
+    54 portals
 Calculating Base Vis:
-0....1....2....3....4....5....6....7....8....9...
+0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
-0....1....2....3....4....5....6....7....8....9...
-average leafs visible: 12
+0....1....2....3....4....5....6....7....8....9....
+average leafs visible: 19
 c_noclip: 0
-c_chains: 232
-visdatasize:28  compressed from 28
+c_chains: 1712
+visdatasize:105  compressed from 104
 Writing SinglePlayer01.bsp as BSP version 29
   0.1 seconds elapsed

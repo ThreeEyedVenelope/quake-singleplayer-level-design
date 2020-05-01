@@ -293,12 +293,12 @@
 }
 // brush 33
 {
-( 150 -112 25 ) ( 380 -557 25 ) ( 380 -557 16 ) fullbright_6 0.350557 -0 -0 2.13942 1
-( 384 -560 25 ) ( 384 -560 16 ) ( 380 -557 16 ) fullbright_6 8.99963 -0 180 0.1 -1
-( 380 -557 16 ) ( 384 -560 16 ) ( 224 -112 16 ) fullbright_6 -0 -0 -0 1 1
-( 224 -112 25 ) ( 384 -560 25 ) ( 380 -557 25 ) fullbright_6 -0 -0 -0 1 1
-( 224 -112 16 ) ( 224 -112 25 ) ( 150 -112 25 ) fullbright_6 -14.919 -0 180 1.85 -1
-( 224 -112 16 ) ( 384 -560 16 ) ( 384 -560 25 ) fullbright_6 1.00001 -0 -0 2.15385 1
+( 204 -124 72 ) ( 364 -572 72 ) ( 364 -572 -16 ) 16_cyan_2 5.57143 -0 -0 2.15385 1
+( 372 -580 72 ) ( 372 -580 -16 ) ( 364 -572 -16 ) 16_cyan_2 12.9995 -0 -0 0.2 1
+( 364 -572 16 ) ( 372 -580 16 ) ( 220 -124 16 ) 16_cyan_2 4 -12 -0 1 1
+( 220 -124 25 ) ( 372 -580 25 ) ( 364 -572 25 ) 16_cyan_2 4 -12 -0 1 1
+( 220 -124 -16 ) ( 220 -124 72 ) ( 204 -124 72 ) 16_cyan_2 -2 -0 180 0.4 -1
+( 220 -124 -16 ) ( 372 -580 -16 ) ( 372 -580 72 ) 16_cyan_2 5.5614 -0 -0 2.19231 1
 }
 }
 // entity 1
@@ -309,60 +309,10 @@
 // entity 2
 {
 "classname" "light_torch_small_walltorch"
-"origin" "-159 31 26"
+"origin" "-168 33 26"
 }
 // entity 3
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-36 123 29"
-}
-// entity 4
-{
-"classname" "light_torch_small_walltorch"
-"origin" "210 -99 28"
-}
-// entity 5
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-0 -235 28"
-}
-// entity 6
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-423 103 28"
-}
-// entity 7
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-0 459 29"
-}
-// entity 8
-{
-"classname" "misc_fireball"
-"origin" "75 84 51"
-}
-// entity 9
-{
-"classname" "misc_fireball"
-"origin" "133 84 50"
-}
-// entity 10
-{
-"classname" "misc_fireball"
-"origin" "196 84 49"
-}
-// entity 11
-{
-"classname" "misc_fireball"
-"origin" "258 84 50"
-}
-// entity 12
-{
-"classname" "misc_fireball"
-"origin" "328 84 47"
-}
-// entity 13
-{
-"classname" "misc_fireball"
-"origin" "408 84 48"
 }

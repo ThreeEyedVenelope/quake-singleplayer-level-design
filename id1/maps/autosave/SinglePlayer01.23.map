@@ -309,7 +309,7 @@
 // entity 2
 {
 "classname" "light_torch_small_walltorch"
-"origin" "-159 31 26"
+"origin" "-168 33 26"
 }
 // entity 3
 {
@@ -319,50 +319,19 @@
 // entity 4
 {
 "classname" "light_torch_small_walltorch"
-"origin" "210 -99 28"
+"origin" "217 -102 28"
 }
 // entity 5
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-0 -235 28"
+"classname" "trigger_relay"
+"origin" "66 55 24"
+"message" "Red"
+"targetname" "Red Relay"
+"delay" "1"
+"target" "info_player_start"
 }
 // entity 6
 {
 "classname" "light_torch_small_walltorch"
-"origin" "-423 103 28"
-}
-// entity 7
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-0 459 29"
-}
-// entity 8
-{
-"classname" "misc_fireball"
-"origin" "75 84 51"
-}
-// entity 9
-{
-"classname" "misc_fireball"
-"origin" "133 84 50"
-}
-// entity 10
-{
-"classname" "misc_fireball"
-"origin" "196 84 49"
-}
-// entity 11
-{
-"classname" "misc_fireball"
-"origin" "258 84 50"
-}
-// entity 12
-{
-"classname" "misc_fireball"
-"origin" "328 84 47"
-}
-// entity 13
-{
-"classname" "misc_fireball"
-"origin" "408 84 48"
+"origin" "-3 -255 28"
 }
