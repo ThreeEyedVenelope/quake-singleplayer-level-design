@@ -4,59 +4,59 @@ Output file: SinglePlayer01.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-          146 faces
-           26 brushes
-            4 entities
-            2 unique texnames
-           94 texinfo
+          194 faces
+           34 brushes
+           14 entities
+            5 unique texnames
+          134 texinfo
 
 Opened WAD: C:/Users/BatGirl/Documents/GameDev/quake-singleplayer-level-design/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-           26 brushes
-           44 planes
+           34 brushes
+           70 planes
 ---- CSGFaces ----
-          146 brushfaces
-           94 csgfaces
-           85 mergedfaces
+          194 brushfaces
+          169 csgfaces
+          141 mergedfaces
 ---- SolidBSP ----
-           88 split nodes
-           34 solid leafs
-           55 empty leafs
+          181 split nodes
+           69 solid leafs
+          113 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          221 leaffaces
-          186 nodefaces
+          361 leaffaces
+          319 nodefaces
 ---- Portalize ----
-           55 vis leafs
-           55 vis clusters
-          120 vis portals
+          113 vis leafs
+          113 vis clusters
+          279 vis portals
 ---- FillOutside ----
-           33 outleafs
+           69 outleafs
 ---- MergeAll ----
-           39 mergefaces
+           97 mergefaces
 ---- SolidBSP ----
-           31 split nodes
-           18 solid leafs
-           14 empty leafs
+           56 split nodes
+           31 solid leafs
+           26 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-           82 leaffaces
-           65 nodefaces
+          160 leaffaces
+          123 nodefaces
 ---- Portalize ----
-           14 vis leafs
-           14 vis clusters
-           22 vis portals
+           26 vis leafs
+           26 vis clusters
+           54 vis portals
 ---- Tjunc ----
-           80 world edges
-          233 edge points
-           53 edges added by tjunctions
+          149 world edges
+          457 edge points
+          127 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -66,20 +66,20 @@ Processing hull 2...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
 Wrote SinglePlayer01.bsp
-           94 planes             1880
-           88 vertexes           1056
-           31 nodes               744
-           25 texinfo            1000
-           65 faces              1300
-          257 clipnodes          2056
-           15 leafs               420
-           82 marksurfaces        164
-          302 surfedges          1208
-          152 edges               608
-            2 textures            772
+          140 planes             2800
+          177 vertexes           2124
+           56 nodes              1344
+           54 texinfo            2160
+          123 faces              2460
+          346 clipnodes          2768
+           27 leafs               756
+          160 marksurfaces        320
+          602 surfedges          2408
+          302 edges              1208
+            5 textures           1924
               lightdata             0
               visdata               0
-              entdata             320
+              entdata             910
 
-0.122 seconds elapsed
-Peak memory usage: 1280908 (1.2M)
+0.140 seconds elapsed
+Peak memory usage: 1704660 (1.6M)
