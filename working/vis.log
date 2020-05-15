@@ -3,15 +3,5 @@ running with 12 threads
 testlevel = 4
 LoadBSPFile: 'SinglePlayer01.bsp'
 BSP is version 29
-    30 leafs
-    65 portals
-Calculating Base Vis:
-0....1....2....3....4....5....6....7....8....9....
-Calculating Full Vis:
-0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 24
-c_noclip: 0
-c_chains: 2563
-visdatasize:121  compressed from 120
-Writing SinglePlayer01.bsp as BSP version 29
-  0.1 seconds elapsed
+LoadPortals: couldn't read SinglePlayer01.prt
+No vising performed.
