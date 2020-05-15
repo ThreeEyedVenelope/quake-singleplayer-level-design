@@ -4,60 +4,39 @@ Output file: SinglePlayer01.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-          200 faces
-           35 brushes
-           34 entities
-            6 unique texnames
-          139 texinfo
+          212 faces
+           37 brushes
+           58 entities
+            9 unique texnames
+          153 texinfo
 
 Opened WAD: C:/Users/BatGirl/Documents/GameDev/quake-singleplayer-level-design/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-           35 brushes
-           75 planes
+           37 brushes
+           85 planes
 ---- CSGFaces ----
-          200 brushfaces
-          177 csgfaces
-          149 mergedfaces
+          212 brushfaces
+          250 csgfaces
+          200 mergedfaces
 ---- SolidBSP ----
-          202 split nodes
-           76 solid leafs
-          127 empty leafs
+          280 split nodes
+          108 solid leafs
+          173 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          398 leaffaces
-          344 nodefaces
+          548 leaffaces
+          483 nodefaces
 ---- Portalize ----
-          127 vis leafs
-          127 vis clusters
-          327 vis portals
+          173 vis leafs
+          173 vis clusters
+          467 vis portals
 ---- FillOutside ----
-           73 outleafs
----- MergeAll ----
-          105 mergefaces
----- SolidBSP ----
-           61 split nodes
-           32 solid leafs
-           30 empty leafs
-            0 water leafs
-            0 detail leafs
-            0 detail illusionary leafs
-            0 detail fence leafs
-            0 illusionary visblocker leafs
-          175 leaffaces
-          131 nodefaces
----- Portalize ----
-           30 vis leafs
-           30 vis clusters
-           65 vis portals
----- Tjunc ----
-          161 world edges
-          489 edge points
-          135 edges added by tjunctions
-            0 faces added by tjunctions
+*** WARNING 10: Reached occupant at (212 76 164), no filling performed.
+Leak file written to SinglePlayer01.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
@@ -66,20 +45,20 @@ Processing hull 2...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
 Wrote SinglePlayer01.bsp
-          159 planes             3180
-          189 vertexes           2268
-           61 nodes              1464
-           59 texinfo            2360
-          131 faces              2620
-          403 clipnodes          3224
-           31 leafs               868
-          175 marksurfaces        350
-          642 surfedges          2568
-          322 edges              1288
-            6 textures           2308
+          208 planes             4160
+          623 vertexes           7476
+          280 nodes              6720
+           96 texinfo            3840
+          483 faces              9660
+          490 clipnodes          3920
+          174 leafs              4872
+          548 marksurfaces       1096
+         1901 surfedges          7604
+         1298 edges              5192
+            9 textures           3460
               lightdata             0
               visdata               0
-              entdata            2119
+              entdata            3640
 
-0.214 seconds elapsed
-Peak memory usage: 1891606 (1.8M)
+0.154 seconds elapsed
+Peak memory usage: 2767704 (2.6M)
